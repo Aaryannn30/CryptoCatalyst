@@ -40,16 +40,19 @@
   ```bash
    cd CryptoCatalyst
   ```
-3. Open index.html in your browser to view the website. 🌍
-Usage 💡
-Explore the pages and navigate between them using the header menu.
-Fill out the contact form on the "Contact Us" page to send inquiries.
-Contributing 🤝
-If you would like to contribute to CryptoCatalyst, feel free to fork the repository, create a branch, and submit a pull request. We welcome all contributions!
+3. Open index.html in your browser to view the website.🌍
 
-License 📝
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Usage 💡
 
-Acknowledgements 🙏
-A big thanks to the open-source community for the resources and tools that made this project possible! 💙
-Feel free to explore, and enjoy browsing CryptoCatalyst! 🚀✨
+- Explore the pages and navigate between them using the header menu.
+- Fill out the contact form on the "Contact Us" page to send inquiries.
+  
+## Contributing 🤝
+
+- If you would like to contribute to CryptoCatalyst, feel free to fork the repository, create a branch, and submit a pull request. We welcome all contributions!
+
+## Acknowledgements 🙏
+
+- A big thanks to the open-source community for the resources and tools that made this project possible! 💙
+
+## Feel free to explore, and enjoy browsing CryptoCatalyst! 🚀✨
