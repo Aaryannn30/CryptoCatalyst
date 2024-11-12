@@ -5,7 +5,7 @@
 ## Features 🌟
 
 - **Home Page**: A dynamic landing page that introduces the purpose of CryptoCatalyst. 🌐
-- **About Us Page**: Learn more about the mission, vision, and the team behind CryptoCatalyst. 👥
+- **About Us Page**: Learn more about the mission, vision of CryptoCatalyst. 👥
 - **Contact Us Page**: A simple form to reach out to the CryptoCatalyst team for inquiries. 📬
 
 ## Technologies Used 🛠️
@@ -22,13 +22,11 @@
    - Call-to-action buttons for easy navigation
 
 2. **About Us** 📖
-   - Brief about the team
    - Mission statement
    - Vision and goals of CryptoCatalyst
 
 3. **Contact Us** 📞
    - Contact form to send inquiries
-   - Links to social media handles for further communication
 
 ## Installation 📥
 
