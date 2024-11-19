@@ -53,13 +53,13 @@ Here is a preview of the **CryptoCatalyst** website:
 
 *Home Page*
 
-![Bookshelf Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/RRShelf.gif)
+![About Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/RRShelf.gif)
 
-*Bookshelf Page*
+*About Page*
 
-![Bookshelf Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/RRShelf.gif)
+![Contact Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/RRShelf.gif)
 
-*Bookshelf Page*
+*Contact Page*
 
   
 ## Contributing 🤝
