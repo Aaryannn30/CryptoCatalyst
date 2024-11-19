@@ -32,7 +32,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CryptoCatalyst.git
+   git clone https://github.com/Aaryannn30/CryptoCatalyst.git
    ```
 2. Navigate to the project folder:
   ```bash
