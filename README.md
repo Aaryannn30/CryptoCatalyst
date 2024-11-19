@@ -44,6 +44,23 @@
 
 - Explore the pages and navigate between them using the header menu.
 - Fill out the contact form on the "Contact Us" page to send inquiries.
+
+## Preview 📸
+
+Here is a preview of the **CryptoCatalyst** website:
+
+![Home Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/ReadRoverhome.gif)
+
+*Home Page*
+
+![Bookshelf Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/RRShelf.gif)
+
+*Bookshelf Page*
+
+![Bookshelf Page](https://github.com/Aaryannn30/ReadRover_Library/blob/main/RRShelf.gif)
+
+*Bookshelf Page*
+
   
 ## Contributing 🤝
 
